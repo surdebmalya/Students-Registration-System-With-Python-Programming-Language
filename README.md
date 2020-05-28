@@ -5,5 +5,5 @@ The cool feature about this desktop application is that, you can DOWNLOAD your R
 [![Watch the video](https://img.youtube.com/vi/tpgpMzhdufA/maxresdefault.jpg)](https://youtu.be/tpgpMzhdufA)
 ## Mechanism:
 Here I have used tkinter as a primary module for frontend development and sqlite3 for backend development. Also I have used PIL, os, datetime and time modules in this project. I have done a lot of errors handling and aimed for a proper execution of the desktop application.
-## View my Blog retaing to this Project:
+## View my Blog relating to this Project:
 https://dsasanengineer.blogspot.com/2020/05/students-registration-system-python.html
